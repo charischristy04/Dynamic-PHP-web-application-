@@ -22,5 +22,4 @@ A PHP and MySQL web application for managing student records with CRUD operation
 - HTML/CSS
 
 ## Author
-Charis Christy - Web Programming Assignment 2
-Mar Baselios College of Engineering and Technology
+Charis Christy
